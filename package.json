@@ -1,0 +1,12 @@
+{
+  "name": "movieql",
+  "version": "1.0.0",
+  "description": "movie app with Graphql yoga",
+  "main": "index.js",
+  "repository": "https://github.com/Maphnew/movieql.git",
+  "author": "Maphnew <zcm3118@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "graphql-yoga": "^1.17.4"
+  }
+}
